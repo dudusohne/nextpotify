@@ -1,0 +1,1 @@
+export { HomeTify } from "./HomeTify";
